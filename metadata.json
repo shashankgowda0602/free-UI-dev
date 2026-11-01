@@ -1,0 +1,6 @@
+{
+  "name": "UIverse Studio",
+  "description": "Discover, customize, and download production-ready UI designs, components, and website templates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
